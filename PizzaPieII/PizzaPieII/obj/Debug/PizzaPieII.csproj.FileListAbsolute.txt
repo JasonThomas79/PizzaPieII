@@ -1,0 +1,6 @@
+C:\JCTProjects\PizzaPieII\PizzaPieII\bin\Debug\PizzaPieII.exe.config
+C:\JCTProjects\PizzaPieII\PizzaPieII\bin\Debug\PizzaPieII.exe
+C:\JCTProjects\PizzaPieII\PizzaPieII\bin\Debug\PizzaPieII.pdb
+C:\JCTProjects\PizzaPieII\PizzaPieII\obj\Debug\PizzaPieII.csprojResolveAssemblyReference.cache
+C:\JCTProjects\PizzaPieII\PizzaPieII\obj\Debug\PizzaPieII.exe
+C:\JCTProjects\PizzaPieII\PizzaPieII\obj\Debug\PizzaPieII.pdb

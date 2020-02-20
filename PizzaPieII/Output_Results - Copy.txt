@@ -1,0 +1,21 @@
+Hello World!
+pepperoni -> 1 -> 4616
+mozzarella cheese -> 2 -> 1014
+four cheese -> 3 -> 956
+bacon -> 4 -> 732
+beef -> 5 -> 623
+sausage -> 6 -> 402
+italian sausage -> 7 -> 361
+chicken -> 8 -> 229
+four cheese, pepperoni -> 9 -> 203
+ham -> 10 -> 165
+mushrooms -> 11 -> 159
+mozzarella cheese, pepperoni -> 12 -> 155
+beef, pepperoni -> 13 -> 122
+bacon, pepperoni -> 14 -> 121
+black olives -> 15 -> 117
+alredo sauce -> 16 -> 101
+pepperoni, sausage -> 17 -> 96
+cheddar cheese -> 18 -> 95
+italian sausage, pepperoni -> 19 -> 85
+pineapple -> 20 -> 79
